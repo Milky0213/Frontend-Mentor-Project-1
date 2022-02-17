@@ -1,0 +1,155 @@
+body {
+    background-color: hsl(225, 100%, 94%);
+}
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+.attribution { 
+    font-size: 11px; text-align: center; 
+    position: relative;
+    bottom: 340px;
+    right: -30px;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+.hero {
+    width: 400px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+@import url(https://fonts.google.com/specimen/Red+Hat+Display);
+.boxed {
+    height: 700px;
+    width: 400px;
+    background-color: white;
+    position: relative;
+    left: 600px;
+    bottom: 400px;
+    border-radius: 20px;
+    text-align: center;
+    font-family: 'Red Hat Display' ;
+    font-weight: 500;
+}
+.cancel {
+    position: relative;
+    top: 120px;
+    right: 0px;
+    border: 0px;
+    background-color: white;
+    font-weight: 700;
+    color: #6b6b6b;
+}
+.cancel:hover {
+    cursor: pointer;
+    color: black;
+}
+.payment {
+    position: relative;
+    top: 80px;
+    right: 0px;
+    height: 50px;
+    width: 350px;
+    border-radius:10px;
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    font-weight: 700;
+    outline: none;
+    outline: 0px solid transparent;
+    border: none;
+    outline: none;
+    box-shadow: 0px 10px 20px #b6b6b6;
+}
+.payment:hover {
+    opacity: 75%;
+    cursor: pointer;
+}
+
+@import url(https://fonts.google.com/specimen/Red+Hat+Display);
+.summary {
+    font-weight: 1000;
+    padding-top: 45px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 500, 700, 900;
+    font-size: 27px;
+}
+@import url(https://fonts.google.com/specimen/Red+Hat+Display);
+.paragraph {
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 500;
+    text-align: center;
+    text-indent: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    position: relative;
+    top: 30px;
+    color: #636363;
+    font-size: 16px;
+    line-height: 25px;
+}
+html { 
+    overflow-y: hidden; 
+    overflow-x: hidden;
+}
+
+.Annual {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 107px;
+    padding-right: 107px;
+    position: relative;
+    top: 50px;
+    right: 0px;
+    background-color:#f9f9f9 ;
+    border: none;
+    border-radius: 10px;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.Annual:hover {
+    background-color: #f9f9f9
+
+}
+
+h1 {
+    font-size: 15px;
+    
+}
+.Plan {
+    position: relative;
+    bottom: 30px;
+    right: 35px;
+}
+
+.music {
+    position: relative;
+    top: 20px;
+    right: 120px;
+}
+
+.Year {
+    color: #636363;
+    position: relative;
+    right: 13px;
+    bottom: 20px;
+    font-weight: 500;
+}
+@import url(https://fonts.google.com/specimen/Red+Hat+Display);
+.Change {
+    position: relative;
+    left: 80px;
+    bottom: 35px;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: 'Red Hat Display', sans-serif;
+}
+@import url(https://fonts.google.com/specimen/Red+Hat+Display);
+.Change:hover {
+    text-decoration: none;
+    opacity: 75%;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: bold;
+}
